@@ -1,0 +1,27 @@
+ <h2 className="letTalk">
+            let's talk
+          </h2>
+          <p className="info">
+            shiloh 2020 God han done encounter,
+            I bless the name of God for the program , 
+            He has done great things in my life 
+          </p>
+          <form>
+    <div className="form-group">
+      
+      <label for="exampleFormControlInput1" >Your Name:</label>
+      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="State.."/><br/>
+      
+      <label for="exampleFormControlInput1" >Your Email:</label>
+      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="State.."/><br/>
+
+     <textarea rows="4" cols="50" name="Comment"> Comment:</textarea>
+     <center>
+     <button type="submit" className="btn">
+       send message
+     </button>
+     </center>
+      
+      
+    </div>
+</form>
