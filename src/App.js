@@ -35,6 +35,7 @@ class App extends Component {
             <Form.Label>Example textarea</Form.Label>
             <Form.Control as="textarea" rows={3} className="textarea" placeholder="Comment" />
           </Form.Group>
+          
           <center>
           <Button variant="outline-info">send message</Button>
           </center>
