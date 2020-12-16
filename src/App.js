@@ -32,7 +32,7 @@ class App extends Component {
           </Form.Group>
 
           <Form.Group controlId="exampleForm.ControlTextarea1">
-            <Form.Label>Example textarea</Form.Label>
+            <Form.Label>Comment</Form.Label>
             <Form.Control as="textarea" rows={3} className="textarea" placeholder="Comment" />
           </Form.Group>
           
@@ -43,13 +43,14 @@ class App extends Component {
         </Form>
       </Col>
       <Col className="formBodyxx">
-        <Figure>
+        <Figure><center>
           <Figure.Image
+           style={{marginLeft:10,}}
             width={191}
             height={210}
             alt="171x180"
             src={imgg}
-          />
+          /></center>
           <Figure.Caption className="figcap">
             Nulla vitae elit libero, a pharetra augue mollis interdum.
           </Figure.Caption>
