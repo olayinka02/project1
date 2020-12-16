@@ -16,7 +16,7 @@ class App extends Component {
       <Col className="formBodyx">
             <h2 className="letTalk">Let's talk</h2>
             <p className="info">
-            shiloh 2020 God han done encounter,
+            shiloh 2020 God has done encounter,
             I bless the name of God for the program , 
             He has done great things in my life 
             </p>
@@ -45,7 +45,7 @@ class App extends Component {
       <Col className="formBodyxx">
         <Figure><center>
           <Figure.Image
-           style={{marginLeft:10,}}
+           style={{marginLeft:13,}}
             width={191}
             height={210}
             alt="171x180"
